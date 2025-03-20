@@ -17,7 +17,7 @@ public class HomeController : Controller
     {
         var model = new Item()
         {
-            Name = "Lol"
+            Name = "Test2"
         };
         return View(model);
     }

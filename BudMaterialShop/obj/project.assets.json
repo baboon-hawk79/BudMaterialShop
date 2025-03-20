@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\carbo\\.nuget\\packages\\": {}
+    "C:\\Users\\denys\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\carbo\\RiderProjects\\BudMaterialShop\\BudMaterialShop\\BudMaterialShop.csproj",
+      "projectUniqueName": "C:\\Users\\denys\\Desktop\\kep\\diplom2\\BudMaterialShop\\BudMaterialShop\\BudMaterialShop.csproj",
       "projectName": "BudMaterialShop",
-      "projectPath": "C:\\Users\\carbo\\RiderProjects\\BudMaterialShop\\BudMaterialShop\\BudMaterialShop.csproj",
-      "packagesPath": "C:\\Users\\carbo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\carbo\\RiderProjects\\BudMaterialShop\\BudMaterialShop\\obj\\",
+      "projectPath": "C:\\Users\\denys\\Desktop\\kep\\diplom2\\BudMaterialShop\\BudMaterialShop\\BudMaterialShop.csproj",
+      "packagesPath": "C:\\Users\\denys\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\denys\\Desktop\\kep\\diplom2\\BudMaterialShop\\BudMaterialShop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\carbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\denys\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

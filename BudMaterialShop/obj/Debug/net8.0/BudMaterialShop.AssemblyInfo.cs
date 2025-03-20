@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BudMaterialShop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b9317c63c7c52c9ffdaca74f11dfab6cccf0271")]
 [assembly: System.Reflection.AssemblyProductAttribute("BudMaterialShop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BudMaterialShop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
