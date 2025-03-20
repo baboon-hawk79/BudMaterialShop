@@ -1,7 +1,14 @@
+using BudMaterialShop.Context;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<BudMaterialShopContext>(options =>
+{
+    options.UseNpgsql(builder.Configuration.GetConnectionString("pgSqlString"));
+});
 
 var app = builder.Build();
 

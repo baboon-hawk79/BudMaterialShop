@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\denys\\Desktop\\kep\\diplom2\\BudMaterialShop\\BudMaterialShop\\BudMaterialShop.csproj": {}
+    "C:\\Users\\carbo\\RiderProjects\\BudMaterialShop\\BudMaterialShop\\BudMaterialShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\denys\\Desktop\\kep\\diplom2\\BudMaterialShop\\BudMaterialShop\\BudMaterialShop.csproj": {
+    "C:\\Users\\carbo\\RiderProjects\\BudMaterialShop\\BudMaterialShop\\BudMaterialShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\denys\\Desktop\\kep\\diplom2\\BudMaterialShop\\BudMaterialShop\\BudMaterialShop.csproj",
+        "projectUniqueName": "C:\\Users\\carbo\\RiderProjects\\BudMaterialShop\\BudMaterialShop\\BudMaterialShop.csproj",
         "projectName": "BudMaterialShop",
-        "projectPath": "C:\\Users\\denys\\Desktop\\kep\\diplom2\\BudMaterialShop\\BudMaterialShop\\BudMaterialShop.csproj",
-        "packagesPath": "C:\\Users\\denys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\denys\\Desktop\\kep\\diplom2\\BudMaterialShop\\BudMaterialShop\\obj\\",
+        "projectPath": "C:\\Users\\carbo\\RiderProjects\\BudMaterialShop\\BudMaterialShop\\BudMaterialShop.csproj",
+        "packagesPath": "C:\\Users\\carbo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carbo\\RiderProjects\\BudMaterialShop\\BudMaterialShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\denys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\carbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,6 +45,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.14, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
